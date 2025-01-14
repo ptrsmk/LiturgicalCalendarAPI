@@ -1,0 +1,3770 @@
+[
+    {
+        "MONTH": 1,
+        "DAY": 14,
+        "TAG": "StHilary",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 1,
+        "DAY": 14,
+        "TAG": "StFelix",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 1,
+        "DAY": 15,
+        "TAG": "StPaulFirstHermit",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 1,
+        "DAY": 15,
+        "TAG": "StMaurus",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 1,
+        "DAY": 16,
+        "TAG": "StMarcellusI",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 1,
+        "DAY": 17,
+        "TAG": "StAnthony",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 1,
+        "DAY": 18,
+        "TAG": "StPrisca",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 1,
+        "DAY": 19,
+        "TAG": "StsMariusMarthaAudifaxAbachum",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 1,
+        "DAY": 19,
+        "TAG": "StCanute",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 1,
+        "DAY": 20,
+        "TAG": "StsFabianSebastian",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 1,
+        "DAY": 21,
+        "TAG": "StAgnes",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 1,
+        "DAY": 22,
+        "TAG": "StsVincentAnastasius",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 1,
+        "DAY": 23,
+        "TAG": "StRaymundPeafort",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 1,
+        "DAY": 23,
+        "TAG": "StEmerentiana",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 1,
+        "DAY": 24,
+        "TAG": "StTimothy",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 1,
+        "DAY": 25,
+        "TAG": "ConversionStPaul",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 1,
+        "DAY": 26,
+        "TAG": "StPolycarp",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 1,
+        "DAY": 27,
+        "TAG": "StJohnChrysostom",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 1,
+        "DAY": 28,
+        "TAG": "StPeterNolasco",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 1,
+        "DAY": 28,
+        "TAG": "StAgnesSecondFeast",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 1,
+        "DAY": 29,
+        "TAG": "StFrancisdeSales",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 1,
+        "DAY": 30,
+        "TAG": "StMartina",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 1,
+        "DAY": 31,
+        "TAG": "StJohnBosco",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 2,
+        "DAY": 1,
+        "TAG": "StIgnatius",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 2,
+        "DAY": 2,
+        "TAG": "PurificationtheBlessedVirginMaryCandlemas",
+        "GRADE": 4,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 2,
+        "DAY": 3,
+        "TAG": "StBlaise",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 2,
+        "DAY": 4,
+        "TAG": "StAndrewCorsini",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 2,
+        "DAY": 5,
+        "TAG": "StAgatha",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 2,
+        "DAY": 6,
+        "TAG": "StTitus",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 2,
+        "DAY": 6,
+        "TAG": "StDorothy",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 2,
+        "DAY": 7,
+        "TAG": "StRomuald",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 2,
+        "DAY": 8,
+        "TAG": "StJohnMatha",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 2,
+        "DAY": 9,
+        "TAG": "StCyrilAlexandria",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 2,
+        "DAY": 9,
+        "TAG": "StApollonia",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 2,
+        "DAY": 10,
+        "TAG": "StScholastica",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 2,
+        "DAY": 11,
+        "TAG": "ApparitiontheImmaculateVirginMaryatLourdes",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 2,
+        "DAY": 12,
+        "TAG": "SevenHolyFounderstheServiteOrder",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 2,
+        "DAY": 14,
+        "TAG": "StValentine",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 2,
+        "DAY": 15,
+        "TAG": "StsFaustinusJovita",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 2,
+        "DAY": 18,
+        "TAG": "StSimeon",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 2,
+        "DAY": 22,
+        "TAG": "ChairStPeter",
+        "GRADE": 4,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 2,
+        "DAY": 23,
+        "TAG": "StPeterDamian",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 2,
+        "DAY": 24,
+        "TAG": "StMatthiasAp",
+        "GRADE": 4,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 2,
+        "DAY": 27,
+        "TAG": "StGabrielOurLadySorrows",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 3,
+        "DAY": 4,
+        "TAG": "StCasimir",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 3,
+        "DAY": 4,
+        "TAG": "StLuciusI",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 3,
+        "DAY": 6,
+        "TAG": "StsPerpetuaFelicity",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 3,
+        "DAY": 7,
+        "TAG": "StThomasAquinas",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 3,
+        "DAY": 8,
+        "TAG": "StJohnGod",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 3,
+        "DAY": 9,
+        "TAG": "StFrancesRome",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 3,
+        "DAY": 10,
+        "TAG": "HolyFortyMartyrs",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 3,
+        "DAY": 12,
+        "TAG": "StGregorytheGreat",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 3,
+        "DAY": 17,
+        "TAG": "StPatrick",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 3,
+        "DAY": 18,
+        "TAG": "StCyrilJerusalem",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 3,
+        "DAY": 19,
+        "TAG": "StJoseph",
+        "GRADE": 6,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 3,
+        "DAY": 21,
+        "TAG": "StBenedict",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 3,
+        "DAY": 24,
+        "TAG": "StGabriel",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 3,
+        "DAY": 25,
+        "TAG": "Annunciation",
+        "GRADE": 6,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 3,
+        "DAY": 27,
+        "TAG": "StJohnDamascene",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 3,
+        "DAY": 28,
+        "TAG": "StJohnCapistran",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 4,
+        "DAY": 2,
+        "TAG": "StFrancisPaola",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 4,
+        "DAY": 4,
+        "TAG": "StIsidore",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 4,
+        "DAY": 5,
+        "TAG": "StVincentFerrer",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 4,
+        "DAY": 11,
+        "TAG": "StLeotheGreat",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 4,
+        "DAY": 13,
+        "TAG": "StHermenegild",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 4,
+        "DAY": 14,
+        "TAG": "StJustin",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 4,
+        "DAY": 14,
+        "TAG": "StsTiburtiusValerianMaximus",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 4,
+        "DAY": 17,
+        "TAG": "StAnicetus",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 4,
+        "DAY": 21,
+        "TAG": "StAnselm",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 4,
+        "DAY": 22,
+        "TAG": "StsSoterCaius",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 4,
+        "DAY": 23,
+        "TAG": "StGeorge",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 4,
+        "DAY": 24,
+        "TAG": "StFidelisSigmaringen",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 4,
+        "DAY": 25,
+        "TAG": "StMarkEvangelist",
+        "GRADE": 4,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 4,
+        "DAY": 26,
+        "TAG": "StsCletusMarcellinus",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 4,
+        "DAY": 27,
+        "TAG": "StPeterCanisius",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 4,
+        "DAY": 28,
+        "TAG": "StPaulCross",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 4,
+        "DAY": 29,
+        "TAG": "StPeterVerona",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 4,
+        "DAY": 30,
+        "TAG": "StCatherineSiena",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 5,
+        "DAY": 1,
+        "TAG": "StJosephtheWorker",
+        "GRADE": 6,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 5,
+        "DAY": 2,
+        "TAG": "StAthanasius",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 5,
+        "DAY": 3,
+        "TAG": "StsAlexanderEventiusTheodulusJuvenal",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 5,
+        "DAY": 4,
+        "TAG": "StMonica",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 5,
+        "DAY": 5,
+        "TAG": "StPiusV",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 5,
+        "DAY": 7,
+        "TAG": "StStanislaus",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 5,
+        "DAY": 9,
+        "TAG": "StGregoryNazianzen",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 5,
+        "DAY": 10,
+        "TAG": "StAntoninus",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 5,
+        "DAY": 10,
+        "TAG": "StsGordianEpimachus",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 5,
+        "DAY": 11,
+        "TAG": "StsPhilipJamesAp",
+        "GRADE": 4,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 5,
+        "DAY": 12,
+        "TAG": "StsNereusAchilleusDomitillaPancras",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 5,
+        "DAY": 13,
+        "TAG": "StRobertBellarmine",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 5,
+        "DAY": 14,
+        "TAG": "StBoniface",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 5,
+        "DAY": 15,
+        "TAG": "StJohnBaptistdelaSalle",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 5,
+        "DAY": 16,
+        "TAG": "StUbaldus",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 5,
+        "DAY": 17,
+        "TAG": "StPaschalBaylon",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 5,
+        "DAY": 18,
+        "TAG": "StVenantius",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 5,
+        "DAY": 19,
+        "TAG": "StPeterCelestine",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 5,
+        "DAY": 19,
+        "TAG": "StPudentiana",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 5,
+        "DAY": 20,
+        "TAG": "StBernardineSiena",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 5,
+        "DAY": 25,
+        "TAG": "StGregoryVII",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 5,
+        "DAY": 25,
+        "TAG": "StUrbanI",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 5,
+        "DAY": 26,
+        "TAG": "StPhilipNeri",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 5,
+        "DAY": 26,
+        "TAG": "StEleutherius",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 5,
+        "DAY": 27,
+        "TAG": "StBedetheVenerable",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 5,
+        "DAY": 27,
+        "TAG": "StJohnI",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 5,
+        "DAY": 29,
+        "TAG": "StMaryMagdalendeiPazzi",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 5,
+        "DAY": 30,
+        "TAG": "StFelixI",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 5,
+        "DAY": 31,
+        "TAG": "BlessedVirginMary",
+        "GRADE": 4,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 5,
+        "DAY": 31,
+        "TAG": "StPetronilla",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 6,
+        "DAY": 1,
+        "TAG": "StAngelaMerici",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 6,
+        "DAY": 2,
+        "TAG": "StsMarcellinusPeterErasmus",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 6,
+        "DAY": 4,
+        "TAG": "StFrancisCaracciolo",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 6,
+        "DAY": 5,
+        "TAG": "StBonifaceBishop",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 6,
+        "DAY": 6,
+        "TAG": "StNorbert",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 6,
+        "DAY": 9,
+        "TAG": "StsPrimusFelician",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 6,
+        "DAY": 10,
+        "TAG": "StMargaret",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 6,
+        "DAY": 11,
+        "TAG": "StBarnabasAp",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 6,
+        "DAY": 12,
+        "TAG": "StJohnStFacundus",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 6,
+        "DAY": 12,
+        "TAG": "StsBasilidesCyrinusNaborNazarius",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 6,
+        "DAY": 13,
+        "TAG": "StAnthonyPadua",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 6,
+        "DAY": 14,
+        "TAG": "StBasiltheGreat",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 6,
+        "DAY": 15,
+        "TAG": "StsVitusModestusCrescentia",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 6,
+        "DAY": 17,
+        "TAG": "StGregoryBarbarigo",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 6,
+        "DAY": 18,
+        "TAG": "StEphremtheSyrian",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 6,
+        "DAY": 18,
+        "TAG": "StsMarkMarcellianus",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 6,
+        "DAY": 19,
+        "TAG": "StJulianaFalconieri",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 6,
+        "DAY": 19,
+        "TAG": "StsGervaseProtase",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 6,
+        "DAY": 20,
+        "TAG": "StSilverius",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 6,
+        "DAY": 21,
+        "TAG": "StAloysiusGonzaga",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 6,
+        "DAY": 22,
+        "TAG": "StPaulinus",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 6,
+        "DAY": 23,
+        "TAG": "VigiltheNativityStJohntheBaptist",
+        "GRADE": 4,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "violet"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 6,
+        "DAY": 24,
+        "TAG": "NativityStJohntheBaptist",
+        "GRADE": 6,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 6,
+        "DAY": 25,
+        "TAG": "StWilliam",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 6,
+        "DAY": 26,
+        "TAG": "StsJohnPaul",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 6,
+        "DAY": 28,
+        "TAG": "VigilStsPeterPaulAp",
+        "GRADE": 4,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "violet"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 6,
+        "DAY": 29,
+        "TAG": "StsPeterPaulAp",
+        "GRADE": 6,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 6,
+        "DAY": 30,
+        "TAG": "CommemorationStPaul",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 7,
+        "DAY": 1,
+        "TAG": "MostPreciousBloodOurLord",
+        "GRADE": 6,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 7,
+        "DAY": 2,
+        "TAG": "VisitationtheBlessedVirginMary",
+        "GRADE": 4,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 7,
+        "DAY": 2,
+        "TAG": "StsProcessusMartinian",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 7,
+        "DAY": 3,
+        "TAG": "StIrenaeus",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 7,
+        "DAY": 5,
+        "TAG": "StAnthonyMaryZaccaria",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 7,
+        "DAY": 7,
+        "TAG": "StsCyrilMethodius",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 7,
+        "DAY": 8,
+        "TAG": "StElizabethPortugal",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 7,
+        "DAY": 10,
+        "TAG": "HolySevenBrothers",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 7,
+        "DAY": 11,
+        "TAG": "StPiusI",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 7,
+        "DAY": 12,
+        "TAG": "StJohnGualbert",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 7,
+        "DAY": 12,
+        "TAG": "StsNaborFelix",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 7,
+        "DAY": 14,
+        "TAG": "StBonaventure",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 7,
+        "DAY": 15,
+        "TAG": "StHenry",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 7,
+        "DAY": 16,
+        "TAG": "OurLadyMountCarmel",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 7,
+        "DAY": 17,
+        "TAG": "StAlexius",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 7,
+        "DAY": 18,
+        "TAG": "StCamillusdeLellis",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 7,
+        "DAY": 18,
+        "TAG": "StSymphorosaandherChildren",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 7,
+        "DAY": 19,
+        "TAG": "StVincentdePaul",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 7,
+        "DAY": 20,
+        "TAG": "StJeromeEmilian",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 7,
+        "DAY": 20,
+        "TAG": "StMargaretVirgin",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 7,
+        "DAY": 21,
+        "TAG": "StLaurenceBrindisi",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 7,
+        "DAY": 21,
+        "TAG": "StPraxedes",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 7,
+        "DAY": 22,
+        "TAG": "StMaryMagdalen",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 7,
+        "DAY": 23,
+        "TAG": "StApollinaris",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 7,
+        "DAY": 23,
+        "TAG": "StLiborius",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 7,
+        "DAY": 24,
+        "TAG": "StChristina",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 7,
+        "DAY": 25,
+        "TAG": "StJames",
+        "GRADE": 4,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 7,
+        "DAY": 25,
+        "TAG": "StChristopher",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 7,
+        "DAY": 26,
+        "TAG": "StAnne",
+        "GRADE": 4,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 7,
+        "DAY": 27,
+        "TAG": "StPantaleon",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 7,
+        "DAY": 28,
+        "TAG": "StsNazariusandCelsusVictorIInnocentI",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 7,
+        "DAY": 29,
+        "TAG": "StMartha",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 7,
+        "DAY": 29,
+        "TAG": "StsFelixSimpliciusFaustinusBeatrice",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 7,
+        "DAY": 30,
+        "TAG": "StsAbdonSennen",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 7,
+        "DAY": 31,
+        "TAG": "StIgnatiusLoyola",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 8,
+        "DAY": 1,
+        "TAG": "HolyMachabees",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 8,
+        "DAY": 2,
+        "TAG": "StAlphonsusMarydeLiguori",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 8,
+        "DAY": 2,
+        "TAG": "StStephenI",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 8,
+        "DAY": 4,
+        "TAG": "StDominic",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 8,
+        "DAY": 5,
+        "TAG": "DedicationChurchOurLadytheSnows",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 8,
+        "DAY": 6,
+        "TAG": "TransfigurationOurLord",
+        "GRADE": 4,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 8,
+        "DAY": 6,
+        "TAG": "StsXystusIIFelicissimusAgapitus",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 8,
+        "DAY": 7,
+        "TAG": "StCajetan",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 8,
+        "DAY": 7,
+        "TAG": "StDonatus",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 8,
+        "DAY": 8,
+        "TAG": "StJohnMaryVianney",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 8,
+        "DAY": 8,
+        "TAG": "StsCyriacusLargusSmaragdus",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 8,
+        "DAY": 9,
+        "TAG": "VigilStLawrence",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "violet"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 8,
+        "DAY": 9,
+        "TAG": "StRomanus",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 8,
+        "DAY": 10,
+        "TAG": "StLawrence",
+        "GRADE": 4,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 8,
+        "DAY": 11,
+        "TAG": "StsTiburtiusSusanna",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 8,
+        "DAY": 12,
+        "TAG": "StClare",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 8,
+        "DAY": 13,
+        "TAG": "StsHippolytusCassian",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 8,
+        "DAY": 14,
+        "TAG": "VigiltheAssumptiontheBlessedVirginMary",
+        "GRADE": 4,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "violet"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 8,
+        "DAY": 14,
+        "TAG": "StEusebiusConfessor",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 8,
+        "DAY": 15,
+        "TAG": "Assumption",
+        "GRADE": 6,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 8,
+        "DAY": 16,
+        "TAG": "StJoachim",
+        "GRADE": 4,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 8,
+        "DAY": 17,
+        "TAG": "StHyacinth",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 8,
+        "DAY": 18,
+        "TAG": "StAgapitus",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 8,
+        "DAY": 19,
+        "TAG": "StJohnEudes",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 8,
+        "DAY": 20,
+        "TAG": "StBernard",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 8,
+        "DAY": 21,
+        "TAG": "StJaneFrancesDeChantal",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 8,
+        "DAY": 22,
+        "TAG": "ImmaculateHearttheBlessedVirginMary",
+        "GRADE": 4,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 8,
+        "DAY": 22,
+        "TAG": "StsTimothyHippolytusSymphorian",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 8,
+        "DAY": 23,
+        "TAG": "StPhilipBenizi",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 8,
+        "DAY": 24,
+        "TAG": "StBartholomewAp",
+        "GRADE": 4,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 8,
+        "DAY": 25,
+        "TAG": "StLouis",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 8,
+        "DAY": 26,
+        "TAG": "StZephyrinus",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 8,
+        "DAY": 27,
+        "TAG": "StJosephCalasanctius",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 8,
+        "DAY": 28,
+        "TAG": "StAugustine",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 8,
+        "DAY": 28,
+        "TAG": "StHermes",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 8,
+        "DAY": 29,
+        "TAG": "BeheadingStJohntheBaptist",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 8,
+        "DAY": 29,
+        "TAG": "StSabina",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 8,
+        "DAY": 30,
+        "TAG": "StRoseLima",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 8,
+        "DAY": 30,
+        "TAG": "StsFelixAdauctus",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 8,
+        "DAY": 31,
+        "TAG": "StRaymundNonnatus",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 9,
+        "DAY": 1,
+        "TAG": "StGiles",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 9,
+        "DAY": 1,
+        "TAG": "HolyTwelveBrothers",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 9,
+        "DAY": 2,
+        "TAG": "StStephenHungary",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 9,
+        "DAY": 3,
+        "TAG": "StPiusX",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 9,
+        "DAY": 5,
+        "TAG": "StLawrenceJustinian",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 9,
+        "DAY": 8,
+        "TAG": "NativitytheBlessedVirginMary",
+        "GRADE": 4,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 9,
+        "DAY": 8,
+        "TAG": "StHadrian",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 9,
+        "DAY": 9,
+        "TAG": "StGorgonius",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 9,
+        "DAY": 10,
+        "TAG": "StNicholasTolentino",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 9,
+        "DAY": 11,
+        "TAG": "StsProtusHyacinth",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 9,
+        "DAY": 12,
+        "TAG": "MostHolyNameMary",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 9,
+        "DAY": 14,
+        "TAG": "ExaltationtheHolyCross",
+        "GRADE": 4,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 9,
+        "DAY": 15,
+        "TAG": "SevenDolorstheBlessedVirginMarySevenSorrowstheBlessedVirginMary",
+        "GRADE": 4,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 9,
+        "DAY": 16,
+        "TAG": "StsCorneliusCyprian",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 9,
+        "DAY": 16,
+        "TAG": "StsEuphemiaLucyGeminianus",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 9,
+        "DAY": 17,
+        "TAG": "ImpressiontheStigmataStFrancis",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 9,
+        "DAY": 18,
+        "TAG": "StJosephCupertino",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 9,
+        "DAY": 19,
+        "TAG": "StJanuarius",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 9,
+        "DAY": 20,
+        "TAG": "StsEustaceCompanions",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 9,
+        "DAY": 21,
+        "TAG": "StMatthew",
+        "GRADE": 4,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 9,
+        "DAY": 22,
+        "TAG": "StThomasVillanova",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 9,
+        "DAY": 22,
+        "TAG": "StsMauriceCompanioins",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 9,
+        "DAY": 23,
+        "TAG": "StLinus",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 9,
+        "DAY": 23,
+        "TAG": "StThecla",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 9,
+        "DAY": 24,
+        "TAG": "OurLadyRansomOurLadyMercy",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 9,
+        "DAY": 26,
+        "TAG": "StsCyprianJustina",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 9,
+        "DAY": 27,
+        "TAG": "StsCosmasDamian",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 9,
+        "DAY": 28,
+        "TAG": "StWenceslaus",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 9,
+        "DAY": 29,
+        "TAG": "DedicationStMichaelArchangel",
+        "GRADE": 6,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 9,
+        "DAY": 30,
+        "TAG": "StJerome",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 10,
+        "DAY": 1,
+        "TAG": "StRemigius",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 10,
+        "DAY": 2,
+        "TAG": "HolyGuardianAngels",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 10,
+        "DAY": 3,
+        "TAG": "StTeresatheInfantJesus",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 10,
+        "DAY": 4,
+        "TAG": "StFrancisAssisi",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 10,
+        "DAY": 5,
+        "TAG": "StsPlacidCompanions",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 10,
+        "DAY": 6,
+        "TAG": "StBruno",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 10,
+        "DAY": 7,
+        "TAG": "OurLadytheRosary",
+        "GRADE": 4,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 10,
+        "DAY": 7,
+        "TAG": "StMarkPope",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 10,
+        "DAY": 8,
+        "TAG": "StBridgetSweden",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 10,
+        "DAY": 8,
+        "TAG": "StsSergiusBacchusMarcellusApuleius",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 10,
+        "DAY": 9,
+        "TAG": "StJohnLeonardi",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 10,
+        "DAY": 9,
+        "TAG": "StsDionysiusRusticusEleutherius",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 10,
+        "DAY": 10,
+        "TAG": "StFrancisBorgia",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 10,
+        "DAY": 11,
+        "TAG": "MaternitytheBlessedVirginMary",
+        "GRADE": 4,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 10,
+        "DAY": 13,
+        "TAG": "StEdward",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 10,
+        "DAY": 14,
+        "TAG": "StCallistusI",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 10,
+        "DAY": 15,
+        "TAG": "StTeresaAvila",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 10,
+        "DAY": 16,
+        "TAG": "StHedwig",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 10,
+        "DAY": 17,
+        "TAG": "StMargaretMaryAlacoque",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 10,
+        "DAY": 18,
+        "TAG": "StLuke",
+        "GRADE": 4,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 10,
+        "DAY": 19,
+        "TAG": "StPeterAlcantara",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 10,
+        "DAY": 20,
+        "TAG": "StJohnCantius",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 10,
+        "DAY": 21,
+        "TAG": "StHilarion",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 10,
+        "DAY": 21,
+        "TAG": "StsUrsulaCompanions",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 10,
+        "DAY": 23,
+        "TAG": "StAnthonyMaryClaret",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 10,
+        "DAY": 24,
+        "TAG": "StRaphael",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 10,
+        "DAY": 25,
+        "TAG": "StsChrysanthusDaria",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 10,
+        "DAY": 26,
+        "TAG": "StEvaristus",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 10,
+        "DAY": 28,
+        "TAG": "StsSimonJudeAp",
+        "GRADE": 4,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 11,
+        "DAY": 1,
+        "TAG": "AllSaints",
+        "GRADE": 6,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 11,
+        "DAY": 2,
+        "TAG": "AllSouls",
+        "GRADE": 6,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "black"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 11,
+        "DAY": 4,
+        "TAG": "StCharlesBorromeo",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 11,
+        "DAY": 4,
+        "TAG": "StsVitalisAgricola",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 11,
+        "DAY": 8,
+        "TAG": "HolyFourCrownedMartyrs",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 11,
+        "DAY": 9,
+        "TAG": "DedicationtheBasilicaOurSavior",
+        "GRADE": 4,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 11,
+        "DAY": 9,
+        "TAG": "StTheodore",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 11,
+        "DAY": 10,
+        "TAG": "StAndrewAvellino",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 11,
+        "DAY": 10,
+        "TAG": "StTryphonRespiciusNympha",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 11,
+        "DAY": 11,
+        "TAG": "StMartinTours",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 11,
+        "DAY": 11,
+        "TAG": "StMennas",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 11,
+        "DAY": 12,
+        "TAG": "StMartinI",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 11,
+        "DAY": 13,
+        "TAG": "StDidacus",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 11,
+        "DAY": 14,
+        "TAG": "StJosaphat",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 11,
+        "DAY": 15,
+        "TAG": "StAlberttheGreat",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 11,
+        "DAY": 16,
+        "TAG": "StGertrudetheGreat",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 11,
+        "DAY": 17,
+        "TAG": "StGregoryThaumaturgus",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 11,
+        "DAY": 18,
+        "TAG": "DedicationtheBasilicasStsPeterPaul",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 11,
+        "DAY": 19,
+        "TAG": "StElizabethHungary",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 11,
+        "DAY": 19,
+        "TAG": "StPontianus",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 11,
+        "DAY": 20,
+        "TAG": "StFelixValois",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 11,
+        "DAY": 21,
+        "TAG": "PresentationtheBlessedVirginMary",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 11,
+        "DAY": 22,
+        "TAG": "StCecilia",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 11,
+        "DAY": 23,
+        "TAG": "StClementI",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 11,
+        "DAY": 23,
+        "TAG": "StFelicitas",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 11,
+        "DAY": 24,
+        "TAG": "StJohnCross",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 11,
+        "DAY": 24,
+        "TAG": "StChrysogonus",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 11,
+        "DAY": 25,
+        "TAG": "StCatherineAlexandria",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 11,
+        "DAY": 26,
+        "TAG": "StSylvester",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 11,
+        "DAY": 26,
+        "TAG": "StPeterAlexandria",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 11,
+        "DAY": 30,
+        "TAG": "StAndrewAp",
+        "GRADE": 4,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 12,
+        "DAY": 2,
+        "TAG": "StBibiana",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 12,
+        "DAY": 3,
+        "TAG": "StFrancisXavier",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 12,
+        "DAY": 4,
+        "TAG": "StPeterChrysologus",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 12,
+        "DAY": 4,
+        "TAG": "StBarbara",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 12,
+        "DAY": 5,
+        "TAG": "StSabbas",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 12,
+        "DAY": 6,
+        "TAG": "StNicholas",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 12,
+        "DAY": 7,
+        "TAG": "StAmbrose",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 12,
+        "DAY": 8,
+        "TAG": "ImmaculateConception",
+        "GRADE": 6,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 12,
+        "DAY": 10,
+        "TAG": "StMelchiades",
+        "GRADE": 1,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 12,
+        "DAY": 11,
+        "TAG": "StDamasusI",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "white"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 12,
+        "DAY": 13,
+        "TAG": "StLucy",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 12,
+        "DAY": 16,
+        "TAG": "StEusebius",
+        "GRADE": 3,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    },
+    {
+        "MONTH": 12,
+        "DAY": 21,
+        "TAG": "StThomasAp",
+        "GRADE": 4,
+        "COMMON": [],
+        "CALENDAR": "GENERAL ROMAN",
+        "COLOR": [
+            "red"
+        ],
+        "READINGS": {}
+    }
+]
